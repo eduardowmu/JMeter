@@ -1,0 +1,24 @@
+2022-11-06 00:27:50,574 INFO o.a.j.u.JMeterUtils: Setting Locale to pt_BR
+2022-11-06 00:27:50,695 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2022-11-06 00:27:50,698 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-11-06 00:27:50,775 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2022-11-06 00:27:50,775 INFO o.a.j.JMeter: Version 5.5
+2022-11-06 00:27:50,776 INFO o.a.j.JMeter: java.version=11.0.12
+2022-11-06 00:27:50,777 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-11-06 00:27:50,777 INFO o.a.j.JMeter: os.name=Windows 10
+2022-11-06 00:27:50,778 INFO o.a.j.JMeter: os.arch=amd64
+2022-11-06 00:27:50,780 INFO o.a.j.JMeter: os.version=10.0
+2022-11-06 00:27:50,781 INFO o.a.j.JMeter: file.encoding=Cp1252
+2022-11-06 00:27:50,781 INFO o.a.j.JMeter: java.awt.headless=null
+2022-11-06 00:27:50,782 INFO o.a.j.JMeter: Max memory     =1044381696
+2022-11-06 00:27:50,782 INFO o.a.j.JMeter: Available Processors =2
+2022-11-06 00:27:50,847 INFO o.a.j.JMeter: Default Locale=português (Brasil)
+2022-11-06 00:27:50,848 INFO o.a.j.JMeter: JMeter  Locale=português (Brasil)
+2022-11-06 00:27:50,848 INFO o.a.j.JMeter: JMeterHome=H:\Dados\MEU PC\Meusdoc\UDEMY\JMeter\repositorio\JMeter\apache-jmeter-5.5
+2022-11-06 00:27:50,849 INFO o.a.j.JMeter: user.dir  =H:\Dados\MEU PC\Meusdoc\UDEMY\JMeter\repositorio\JMeter\apache-jmeter-5.5\bin
+2022-11-06 00:27:50,859 INFO o.a.j.JMeter: PWD       =H:\Dados\MEU PC\Meusdoc\UDEMY\JMeter\repositorio\JMeter\apache-jmeter-5.5\bin
+2022-11-06 00:27:50,877 INFO o.a.j.JMeter: IP: 192.168.15.132 Name: LAPTOP-QKROJVFB FullName: host.docker.internal
+2022-11-06 00:27:50,943 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-11-06 00:27:51,960 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2022-11-06 00:28:03,812 INFO o.j.r.JARSourceHTTP: Found cached repo
+2022-11-06 00:28:05,967 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-autostop=0.1, jpgc-csl=0.1, jpgc-functions=2.2, jpgc-casutg=2.10, jpgc-dummy=0.4, jpgc-ffw=2.0, jpgc-fifo=0.2, jpgc-perfmon=2.1, jpgc-plugins-manager=1.8, jpgc-tst=2.5, jpgc-wsc=0.7, jmeter-core=5.5, jmeter-ftp=5.5, jmeter-http=5.5, jmeter-jdbc=5.5, jmeter-jms=5.5, jmeter-junit=5.5, jmeter-java=5.5, jmeter-ldap=5.5, jmeter-mail=5.5, jmeter-mongodb=5.5, jmeter-native=5.5, jmeter-tcp=5.5, jmeter-components=5.5, jpgc-standard=2.0]
